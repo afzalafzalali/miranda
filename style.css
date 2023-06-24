@@ -1,3 +1,11 @@
+@font-face {
+    font-family: domain;
+    src: url(./domain+.ttf);
+}
+@font-face {
+    font-family: edit;
+    src: url(./Edit.ttf);
+}
 *{
     margin: 0;
     padding: 0;
